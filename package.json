@@ -34,7 +34,7 @@
   "homepage": "https://github.com/alvaromontoro/almond.css",
   "devDependencies": {
     "cypress": "^9.2.0",
-    "husky": "^8.0.3",
+    "husky": "^9.1.7",
     "node-sass": "^7.0.3",
     "save-dev": "^0.0.1-security"
   }
